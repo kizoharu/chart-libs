@@ -1,0 +1,19 @@
+.footer {
+  flex: 0 0 auto;
+
+  background-color: #81d4fa;
+  height: 40px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  a {
+    font-size: 16px;
+    font-weight: 500;
+    color: white;
+    &:hover {
+      color: #005e54;
+    }
+  }
+}

@@ -1,0 +1,30 @@
+
+.table {
+  margin-bottom: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  .row {
+    width: 80%;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.25), 0 6px 6px rgba(0,0,0,0.22);
+    &:not(:last-child) {
+      margin-bottom: 10px;
+    }
+    transition: .2s linear;
+    position: relative;
+    top: 0;
+    left: 0;
+    &:hover {
+      box-shadow: 0 8px 16px rgba(0,0,0,0.25), 0 12px 12px rgba(0,0,0,0.22);
+      top: -4px;
+      left: -4px;
+    }
+  }
+}
+
+
+
