@@ -1,6 +1,6 @@
 # An application for check the usability of some diagram libraries
 
-[DEMO](https://github.com/facebook/create-react-app).
+[DEMO](https://kizoharu.github.io/chart-libs).
 
 ## Include libs: 
 - DashBoard
