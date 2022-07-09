@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/chart-libs/static/css/main.c7c04ec6.css",
-    "main.js": "/chart-libs/static/js/main.3afdd2d1.js",
+    "main.js": "/chart-libs/static/js/main.77b81ec1.js",
     "index.html": "/chart-libs/index.html",
     "main.c7c04ec6.css.map": "/chart-libs/static/css/main.c7c04ec6.css.map",
-    "main.3afdd2d1.js.map": "/chart-libs/static/js/main.3afdd2d1.js.map"
+    "main.77b81ec1.js.map": "/chart-libs/static/js/main.77b81ec1.js.map"
   },
   "entrypoints": [
     "static/css/main.c7c04ec6.css",
-    "static/js/main.3afdd2d1.js"
+    "static/js/main.77b81ec1.js"
   ]
 }
