@@ -8,7 +8,7 @@ function Header() {
       <nav>
 
           {/* <Link  to='/'> <i className="large material-icons">insert_chart</i></Link> */}
-          <Link className={[styles.icon, "material-icons"].join(' ')}  to='/'> insert_chart</Link>
+          <Link className={[styles.icon, "material-icons"].join(' ')}  to='/chart-libs'> insert_chart</Link>
           
           <ul >
             {publicRoutes.map(link => {
